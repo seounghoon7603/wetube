@@ -1,4 +1,5 @@
-2-7
+2-7 
+-- 새로운 pc에서 깃 받아서 할때 가장먼저 npm install 명령어 실행해서 package.json 에 명명된 파일들 자동 다운받기
 	( 로깅에 도움을 줌 )
  npm install morgan
  
@@ -7,3 +8,6 @@
  
  
  익스프레스의 미들웨어 ( body parser , cookie parser ) 바디와 쿠키를 다룸
+ 
+  npm install body-parser
+  npm install cookie-parser
